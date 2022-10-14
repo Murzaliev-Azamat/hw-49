@@ -12,4 +12,3 @@ echo 'Hello from JS' > hello.txt
 cd ..
 cd directory3
 mkdir subdirectory2
-
